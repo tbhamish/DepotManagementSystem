@@ -1,0 +1,2 @@
+Customer Added: [Ljava.lang.String;@6cb08abf
+Parcel AddedParcel ID : 1, Days In Depot:1, Collected:falseDimensions[Height=11.0m, Width=1.0m, Length=1.0m, Weight=1.0kg]

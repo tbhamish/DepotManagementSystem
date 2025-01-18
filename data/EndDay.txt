@@ -1,0 +1,3 @@
+Package Sold: Customer Details: Queue Number: PARCEL016, Name: John Brown, parcelID: X009
+Parcel Details: Parcel ID : X009, Days In Depot:9, Collected:trueDimensions[Height=9.0m, Width=9.0m, Length=7.0m, Weight=1.0kg]
+Account Total: 567.0, Discount Avaliable: 567.0, Total Due: 321489.0, Invoiced Status: Pending
